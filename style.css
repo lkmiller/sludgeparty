@@ -1,0 +1,16 @@
+*{
+ background: RGB(31, 3, 34;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  background: RGB(31, 3, 34;
+}
+canvas {
+  display: block;
+}
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
